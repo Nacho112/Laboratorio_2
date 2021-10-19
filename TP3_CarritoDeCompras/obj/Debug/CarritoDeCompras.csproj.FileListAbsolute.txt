@@ -1,0 +1,7 @@
+C:\Users\Mega Tecnologia\Desktop\NACHO\FACULTAD ACONCAGUA\2 - Segundo Cuatrimestre\2) LABORATORIO 2\Trabajos\CarritoDeCompras\bin\Debug\CarritoDeCompras.exe.config
+C:\Users\Mega Tecnologia\Desktop\NACHO\FACULTAD ACONCAGUA\2 - Segundo Cuatrimestre\2) LABORATORIO 2\Trabajos\CarritoDeCompras\bin\Debug\CarritoDeCompras.exe
+C:\Users\Mega Tecnologia\Desktop\NACHO\FACULTAD ACONCAGUA\2 - Segundo Cuatrimestre\2) LABORATORIO 2\Trabajos\CarritoDeCompras\bin\Debug\CarritoDeCompras.pdb
+C:\Users\Mega Tecnologia\Desktop\NACHO\FACULTAD ACONCAGUA\2 - Segundo Cuatrimestre\2) LABORATORIO 2\Trabajos\CarritoDeCompras\obj\Debug\CarritoDeCompras.csproj.AssemblyReference.cache
+C:\Users\Mega Tecnologia\Desktop\NACHO\FACULTAD ACONCAGUA\2 - Segundo Cuatrimestre\2) LABORATORIO 2\Trabajos\CarritoDeCompras\obj\Debug\CarritoDeCompras.csproj.CoreCompileInputs.cache
+C:\Users\Mega Tecnologia\Desktop\NACHO\FACULTAD ACONCAGUA\2 - Segundo Cuatrimestre\2) LABORATORIO 2\Trabajos\CarritoDeCompras\obj\Debug\CarritoDeCompras.exe
+C:\Users\Mega Tecnologia\Desktop\NACHO\FACULTAD ACONCAGUA\2 - Segundo Cuatrimestre\2) LABORATORIO 2\Trabajos\CarritoDeCompras\obj\Debug\CarritoDeCompras.pdb
