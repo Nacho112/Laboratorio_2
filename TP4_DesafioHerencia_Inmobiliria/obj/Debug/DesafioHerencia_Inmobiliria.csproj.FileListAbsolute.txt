@@ -1,0 +1,10 @@
+C:\Users\Mega Tecnologia\Desktop\NACHO\FACULTAD ACONCAGUA\2 - Segundo Cuatrimestre\2) LABORATORIO 2\Trabajos\DesafioHerencia_Inmobiliria\bin\Debug\DesafioHerencia_Inmobiliria.exe.config
+C:\Users\Mega Tecnologia\Desktop\NACHO\FACULTAD ACONCAGUA\2 - Segundo Cuatrimestre\2) LABORATORIO 2\Trabajos\DesafioHerencia_Inmobiliria\bin\Debug\DesafioHerencia_Inmobiliria.exe
+C:\Users\Mega Tecnologia\Desktop\NACHO\FACULTAD ACONCAGUA\2 - Segundo Cuatrimestre\2) LABORATORIO 2\Trabajos\DesafioHerencia_Inmobiliria\bin\Debug\DesafioHerencia_Inmobiliria.pdb
+C:\Users\Mega Tecnologia\Desktop\NACHO\FACULTAD ACONCAGUA\2 - Segundo Cuatrimestre\2) LABORATORIO 2\Trabajos\DesafioHerencia_Inmobiliria\obj\Debug\DesafioHerencia_Inmobiliria.csproj.AssemblyReference.cache
+C:\Users\Mega Tecnologia\Desktop\NACHO\FACULTAD ACONCAGUA\2 - Segundo Cuatrimestre\2) LABORATORIO 2\Trabajos\DesafioHerencia_Inmobiliria\obj\Debug\DesafioHerencia_Inmobiliria.Form1.resources
+C:\Users\Mega Tecnologia\Desktop\NACHO\FACULTAD ACONCAGUA\2 - Segundo Cuatrimestre\2) LABORATORIO 2\Trabajos\DesafioHerencia_Inmobiliria\obj\Debug\DesafioHerencia_Inmobiliria.Properties.Resources.resources
+C:\Users\Mega Tecnologia\Desktop\NACHO\FACULTAD ACONCAGUA\2 - Segundo Cuatrimestre\2) LABORATORIO 2\Trabajos\DesafioHerencia_Inmobiliria\obj\Debug\DesafioHerencia_Inmobiliria.csproj.GenerateResource.cache
+C:\Users\Mega Tecnologia\Desktop\NACHO\FACULTAD ACONCAGUA\2 - Segundo Cuatrimestre\2) LABORATORIO 2\Trabajos\DesafioHerencia_Inmobiliria\obj\Debug\DesafioHerencia_Inmobiliria.csproj.CoreCompileInputs.cache
+C:\Users\Mega Tecnologia\Desktop\NACHO\FACULTAD ACONCAGUA\2 - Segundo Cuatrimestre\2) LABORATORIO 2\Trabajos\DesafioHerencia_Inmobiliria\obj\Debug\DesafioHerencia_Inmobiliria.exe
+C:\Users\Mega Tecnologia\Desktop\NACHO\FACULTAD ACONCAGUA\2 - Segundo Cuatrimestre\2) LABORATORIO 2\Trabajos\DesafioHerencia_Inmobiliria\obj\Debug\DesafioHerencia_Inmobiliria.pdb
