@@ -1,0 +1,7 @@
+C:\Users\Mega Tecnologia\Desktop\NACHO\FACULTAD ACONCAGUA\2 - Segundo Cuatrimestre\2) LABORATORIO 2\Trabajos\TP1_EJ3\bin\Debug\TP1_EJ3.exe.config
+C:\Users\Mega Tecnologia\Desktop\NACHO\FACULTAD ACONCAGUA\2 - Segundo Cuatrimestre\2) LABORATORIO 2\Trabajos\TP1_EJ3\bin\Debug\TP1_EJ3.exe
+C:\Users\Mega Tecnologia\Desktop\NACHO\FACULTAD ACONCAGUA\2 - Segundo Cuatrimestre\2) LABORATORIO 2\Trabajos\TP1_EJ3\bin\Debug\TP1_EJ3.pdb
+C:\Users\Mega Tecnologia\Desktop\NACHO\FACULTAD ACONCAGUA\2 - Segundo Cuatrimestre\2) LABORATORIO 2\Trabajos\TP1_EJ3\obj\Debug\TP1_EJ3.csproj.CoreCompileInputs.cache
+C:\Users\Mega Tecnologia\Desktop\NACHO\FACULTAD ACONCAGUA\2 - Segundo Cuatrimestre\2) LABORATORIO 2\Trabajos\TP1_EJ3\obj\Debug\TP1_EJ3.exe
+C:\Users\Mega Tecnologia\Desktop\NACHO\FACULTAD ACONCAGUA\2 - Segundo Cuatrimestre\2) LABORATORIO 2\Trabajos\TP1_EJ3\obj\Debug\TP1_EJ3.pdb
+C:\Users\Mega Tecnologia\Desktop\NACHO\FACULTAD ACONCAGUA\2 - Segundo Cuatrimestre\2) LABORATORIO 2\Trabajos\TP1_EJ3\obj\Debug\TP1_EJ3.csproj.AssemblyReference.cache

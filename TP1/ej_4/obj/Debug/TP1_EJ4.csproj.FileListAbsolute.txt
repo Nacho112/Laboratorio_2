@@ -1,0 +1,14 @@
+C:\Users\Mega Tecnologia\Desktop\NACHO\FACULTAD ACONCAGUA\2 - Segundo Cuatrimestre\2) LABORATORIO 2\Trabajos\TP1_EJ4\bin\Debug\TP1_EJ4.exe.config
+C:\Users\Mega Tecnologia\Desktop\NACHO\FACULTAD ACONCAGUA\2 - Segundo Cuatrimestre\2) LABORATORIO 2\Trabajos\TP1_EJ4\bin\Debug\TP1_EJ4.exe
+C:\Users\Mega Tecnologia\Desktop\NACHO\FACULTAD ACONCAGUA\2 - Segundo Cuatrimestre\2) LABORATORIO 2\Trabajos\TP1_EJ4\bin\Debug\TP1_EJ4.pdb
+C:\Users\Mega Tecnologia\Desktop\NACHO\FACULTAD ACONCAGUA\2 - Segundo Cuatrimestre\2) LABORATORIO 2\Trabajos\TP1_EJ4\obj\Debug\TP1_EJ4.csproj.AssemblyReference.cache
+C:\Users\Mega Tecnologia\Desktop\NACHO\FACULTAD ACONCAGUA\2 - Segundo Cuatrimestre\2) LABORATORIO 2\Trabajos\TP1_EJ4\obj\Debug\TP1_EJ4.csproj.CoreCompileInputs.cache
+C:\Users\Mega Tecnologia\Desktop\NACHO\FACULTAD ACONCAGUA\2 - Segundo Cuatrimestre\2) LABORATORIO 2\Trabajos\TP1_EJ4\obj\Debug\TP1_EJ4.exe
+C:\Users\Mega Tecnologia\Desktop\NACHO\FACULTAD ACONCAGUA\2 - Segundo Cuatrimestre\2) LABORATORIO 2\Trabajos\TP1_EJ4\obj\Debug\TP1_EJ4.pdb
+C:\Users\Mega Tecnologia\Desktop\NACHO\FACULTAD ACONCAGUA\2 - Segundo Cuatrimestre\2) LABORATORIO 2\Trabajos\Trabajo_num_1\ej_4\bin\Debug\TP1_EJ4.exe.config
+C:\Users\Mega Tecnologia\Desktop\NACHO\FACULTAD ACONCAGUA\2 - Segundo Cuatrimestre\2) LABORATORIO 2\Trabajos\Trabajo_num_1\ej_4\bin\Debug\TP1_EJ4.exe
+C:\Users\Mega Tecnologia\Desktop\NACHO\FACULTAD ACONCAGUA\2 - Segundo Cuatrimestre\2) LABORATORIO 2\Trabajos\Trabajo_num_1\ej_4\bin\Debug\TP1_EJ4.pdb
+C:\Users\Mega Tecnologia\Desktop\NACHO\FACULTAD ACONCAGUA\2 - Segundo Cuatrimestre\2) LABORATORIO 2\Trabajos\Trabajo_num_1\ej_4\obj\Debug\TP1_EJ4.csproj.AssemblyReference.cache
+C:\Users\Mega Tecnologia\Desktop\NACHO\FACULTAD ACONCAGUA\2 - Segundo Cuatrimestre\2) LABORATORIO 2\Trabajos\Trabajo_num_1\ej_4\obj\Debug\TP1_EJ4.csproj.CoreCompileInputs.cache
+C:\Users\Mega Tecnologia\Desktop\NACHO\FACULTAD ACONCAGUA\2 - Segundo Cuatrimestre\2) LABORATORIO 2\Trabajos\Trabajo_num_1\ej_4\obj\Debug\TP1_EJ4.exe
+C:\Users\Mega Tecnologia\Desktop\NACHO\FACULTAD ACONCAGUA\2 - Segundo Cuatrimestre\2) LABORATORIO 2\Trabajos\Trabajo_num_1\ej_4\obj\Debug\TP1_EJ4.pdb
