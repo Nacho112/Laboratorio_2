@@ -1,0 +1,7 @@
+C:\Users\Mega Tecnologia\Desktop\NACHO\FACULTAD ACONCAGUA\2 - Segundo Cuatrimestre\2) LABORATORIO 2\Trabajos\DesafioInterfaz_Imprimible\bin\Debug\DesafioInterfaz_Imprimible.exe.config
+C:\Users\Mega Tecnologia\Desktop\NACHO\FACULTAD ACONCAGUA\2 - Segundo Cuatrimestre\2) LABORATORIO 2\Trabajos\DesafioInterfaz_Imprimible\bin\Debug\DesafioInterfaz_Imprimible.exe
+C:\Users\Mega Tecnologia\Desktop\NACHO\FACULTAD ACONCAGUA\2 - Segundo Cuatrimestre\2) LABORATORIO 2\Trabajos\DesafioInterfaz_Imprimible\bin\Debug\DesafioInterfaz_Imprimible.pdb
+C:\Users\Mega Tecnologia\Desktop\NACHO\FACULTAD ACONCAGUA\2 - Segundo Cuatrimestre\2) LABORATORIO 2\Trabajos\DesafioInterfaz_Imprimible\obj\Debug\DesafioInterfaz_Imprimible.csproj.AssemblyReference.cache
+C:\Users\Mega Tecnologia\Desktop\NACHO\FACULTAD ACONCAGUA\2 - Segundo Cuatrimestre\2) LABORATORIO 2\Trabajos\DesafioInterfaz_Imprimible\obj\Debug\DesafioInterfaz_Imprimible.csproj.CoreCompileInputs.cache
+C:\Users\Mega Tecnologia\Desktop\NACHO\FACULTAD ACONCAGUA\2 - Segundo Cuatrimestre\2) LABORATORIO 2\Trabajos\DesafioInterfaz_Imprimible\obj\Debug\DesafioInterfaz_Imprimible.exe
+C:\Users\Mega Tecnologia\Desktop\NACHO\FACULTAD ACONCAGUA\2 - Segundo Cuatrimestre\2) LABORATORIO 2\Trabajos\DesafioInterfaz_Imprimible\obj\Debug\DesafioInterfaz_Imprimible.pdb
