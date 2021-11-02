@@ -1,0 +1,7 @@
+C:\Users\Mega Tecnologia\Desktop\NACHO\FACULTAD ACONCAGUA\2 - Segundo Cuatrimestre\2) LABORATORIO 2\Trabajos\Electrodomesticos\bin\Debug\Electrodomesticos.exe.config
+C:\Users\Mega Tecnologia\Desktop\NACHO\FACULTAD ACONCAGUA\2 - Segundo Cuatrimestre\2) LABORATORIO 2\Trabajos\Electrodomesticos\bin\Debug\Electrodomesticos.exe
+C:\Users\Mega Tecnologia\Desktop\NACHO\FACULTAD ACONCAGUA\2 - Segundo Cuatrimestre\2) LABORATORIO 2\Trabajos\Electrodomesticos\bin\Debug\Electrodomesticos.pdb
+C:\Users\Mega Tecnologia\Desktop\NACHO\FACULTAD ACONCAGUA\2 - Segundo Cuatrimestre\2) LABORATORIO 2\Trabajos\Electrodomesticos\obj\Debug\Electrodomesticos.csproj.AssemblyReference.cache
+C:\Users\Mega Tecnologia\Desktop\NACHO\FACULTAD ACONCAGUA\2 - Segundo Cuatrimestre\2) LABORATORIO 2\Trabajos\Electrodomesticos\obj\Debug\Electrodomesticos.csproj.CoreCompileInputs.cache
+C:\Users\Mega Tecnologia\Desktop\NACHO\FACULTAD ACONCAGUA\2 - Segundo Cuatrimestre\2) LABORATORIO 2\Trabajos\Electrodomesticos\obj\Debug\Electrodomesticos.exe
+C:\Users\Mega Tecnologia\Desktop\NACHO\FACULTAD ACONCAGUA\2 - Segundo Cuatrimestre\2) LABORATORIO 2\Trabajos\Electrodomesticos\obj\Debug\Electrodomesticos.pdb
