@@ -1,0 +1,5 @@
+C:\Users\Mega Tecnologia\Desktop\NACHO\FACULTAD ACONCAGUA\2 - Segundo Cuatrimestre\2) LABORATORIO 2\Trabajos\DesafioIntegrador\DesafioIntegrador\obj\Debug\DesafioIntegrador.csproj.AssemblyReference.cache
+C:\Users\Mega Tecnologia\Desktop\NACHO\FACULTAD ACONCAGUA\2 - Segundo Cuatrimestre\2) LABORATORIO 2\Trabajos\DesafioIntegrador\DesafioIntegrador\obj\Debug\DesafioIntegrador.Form1.resources
+C:\Users\Mega Tecnologia\Desktop\NACHO\FACULTAD ACONCAGUA\2 - Segundo Cuatrimestre\2) LABORATORIO 2\Trabajos\DesafioIntegrador\DesafioIntegrador\obj\Debug\DesafioIntegrador.Properties.Resources.resources
+C:\Users\Mega Tecnologia\Desktop\NACHO\FACULTAD ACONCAGUA\2 - Segundo Cuatrimestre\2) LABORATORIO 2\Trabajos\DesafioIntegrador\DesafioIntegrador\obj\Debug\DesafioIntegrador.csproj.GenerateResource.cache
+C:\Users\Mega Tecnologia\Desktop\NACHO\FACULTAD ACONCAGUA\2 - Segundo Cuatrimestre\2) LABORATORIO 2\Trabajos\DesafioIntegrador\DesafioIntegrador\obj\Debug\DesafioIntegrador.csproj.CoreCompileInputs.cache
